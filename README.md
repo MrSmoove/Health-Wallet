@@ -1,9 +1,4 @@
 
----
-
-## 🩺 **Health Wallet – README.md**
-
-```md
 # 🩺 Health Wallet
 
 Health Wallet is a personal wellness tracker and forecasting tool powered by machine learning. It allows users to visualize and project trends in their health data using intuitive dashboards and time-series forecasting.
